@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://firebasetest123.github.io/csb-6iumm/static/css/main.9366e532.chunk.css",
+    "main.js": "https://firebasetest123.github.io/csb-6iumm/static/js/main.8fa0b67d.chunk.js",
+    "main.js.map": "https://firebasetest123.github.io/csb-6iumm/static/js/main.8fa0b67d.chunk.js.map",
+    "runtime-main.js": "https://firebasetest123.github.io/csb-6iumm/static/js/runtime-main.15c5c401.js",
+    "runtime-main.js.map": "https://firebasetest123.github.io/csb-6iumm/static/js/runtime-main.15c5c401.js.map",
+    "static/js/2.d23a1cf6.chunk.js": "https://firebasetest123.github.io/csb-6iumm/static/js/2.d23a1cf6.chunk.js",
+    "static/js/2.d23a1cf6.chunk.js.map": "https://firebasetest123.github.io/csb-6iumm/static/js/2.d23a1cf6.chunk.js.map",
+    "index.html": "https://firebasetest123.github.io/csb-6iumm/index.html",
+    "static/css/main.9366e532.chunk.css.map": "https://firebasetest123.github.io/csb-6iumm/static/css/main.9366e532.chunk.css.map",
+    "static/js/2.d23a1cf6.chunk.js.LICENSE.txt": "https://firebasetest123.github.io/csb-6iumm/static/js/2.d23a1cf6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15c5c401.js",
+    "static/js/2.d23a1cf6.chunk.js",
+    "static/css/main.9366e532.chunk.css",
+    "static/js/main.8fa0b67d.chunk.js"
+  ]
+}
